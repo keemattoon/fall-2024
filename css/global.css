@@ -1,0 +1,20 @@
+/* colors! */
+
+/*
+60% of #9B7264
+30% of #9B8E64
+10% of #9B6471
+*/
+
+:root {
+
+/* var(--dominantColor) !important; */
+--dominantColor:#9B7264;
+
+/* var(--secondarytColor) !important; */
+--dominantColor:#9B8E64;
+
+/* var(--accentColor) !important; */
+--dominantColor:#9B6471;
+
+}
