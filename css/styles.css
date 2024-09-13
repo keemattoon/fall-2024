@@ -3,11 +3,11 @@
 
 .test-font {
 
-    color:#9B7264;
+    color:var(--dominantColor) !important;
 
 }
 
 .test-font-2 {
 
-    color:#9B8E64;
+    color:var(--secondaryColor) !important;
 }
